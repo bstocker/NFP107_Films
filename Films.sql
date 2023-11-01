@@ -1210,7 +1210,7 @@ INSERT INTO `Film` (`idFilm`, `titre`, `année`, `idRéalisateur`, `genre`, `ré
 (510, 'Vol au dessus d\'un nid de coucou', 1975, 3974, 'Drame', 'Randle P. McMurphy se fait interner pour échapper à la prison. Il va être touché par la détresse et la solitude des patients. Très rapidement, il comprend que l\'infirmière en chef, Mlle Ratched, a imposé des règles strictes et entend bien les faire respecter. Il décide alors de révolutionner ce petit monde, plutôt au départ par jeu.', 'US'),
 (512, 'Scoop', 2006, 1243, 'Comédie', 'L\'enquête du célèbre journaliste d\'investigation Joe Strombel, consacrée au \"Tueur au Tarot\" de Londres, tourne court quand il meurt de façon aussi soudaine qu\'inexplicable. Mais rien, pas même la mort, ne peut arrêter Joe.A peine arrivé au purgatoire, il décide de transmettre ses toutes dernières informations à la plus charmante des étudiantes en journalisme : Sondra Pransky.De passage à Londres, Sondra entend le fantôme de Joe s\'adresser à elle durant un numéro de magie de l\'Américain Splendini, alias Sid Waterman. Bouleversée et folle de joie à l\'idée d\'avoir déniché le scoop du siècle, l\'effervescente créature se lance avec Sid dans une enquête échevelée, qui les mène droit au fringant aristocrate et politicien Peter Lyman. Une idylle se noue en dépit de troublants indices semblant désigner le beau Peter comme le \"Tueur au Tarot\".Le scoop de Sondra lui sera-t-il fatal ?', 'GB'),
 (524, 'Casino', 1995, 1032, 'Crime', 'Dans les annees soixante-dix à Las Vegas, Ace Rothstein dirige d\'une main de fer l\'hôtel-casino Tangiers, financé en sous-main par le puissant syndicat des camionneurs. Le Tangiers est l\'un des casinos les plus prospères de la ville et Ace est devenu le grand manitou de Las Vegas, secondé par son ami d\'enfance, Nicky Santoro. Impitoyable avec les tricheurs, Rothstein se laisse un jour séduire par une virtuose de l\'arnaque d\'une insolente beauté, Ginger McKenna. Amoureux, il lui ouvre les porte de son paradis et l\'épouse. Ses ennuis commencent alors.', 'FR'),
-(539, 'Psychose', 1960, 2636, 'Horreur', 'Marion Crane en a assez de ne pouvoir mener sa vie comme elle l\'entend. Son travail ne la passionne plus, son amant ne peut l\'épouser car il doit verser une énorme pension alimentaire le laissant sans le sou... Mais un beau jour, son patron lui demande de déposer 40 000 dollars à la banque. La tentation est trop grande, et Marion s\'enfuit avec l\'argent. Très vite la panique commence à se faire sentir. Partagée entre l\'angoisse de se faire prendre et l\'excitation de mener une nouvelle vie, Marion roule vers une destination qu\'elle n\'atteindra jamais. La pluie est battante, la jeune femme s\'arrête près d\'un motel, tenu par un sympathique gérant nommé Norman Bates, mais qui doit supporter le caractère possessif de sa mère. Après un copieux repas avec Norman, Marion prend toutes ses précautions afin de dissimuler l\'argent. Pour se délasser de cette journée, elle prend une douche...', 'US'),
+(539, 'Psychose', 1960, 2636, 'Horreur', 'Marion Carane en a assez de ne pouvoir mener sa vie comme elle l\'entend. Son travail ne la passionne plus, son amant ne peut l\'épouser car il doit verser une énorme pension alimentaire le laissant sans le sou... Mais un beau jour, son patron lui demande de déposer 40 000 dollars à la banque. La tentation est trop grande, et Marion s\'enfuit avec l\'argent. Très vite la panique commence à se faire sentir. Partagée entre l\'angoisse de se faire prendre et l\'excitation de mener une nouvelle vie, Marion roule vers une destination qu\'elle n\'atteindra jamais. La pluie est battante, la jeune femme s\'arrête près d\'un motel, tenu par un sympathique gérant nommé Norman Bates, mais qui doit supporter le caractère possessif de sa mère. Après un copieux repas avec Norman, Marion prend toutes ses précautions afin de dissimuler l\'argent. Pour se délasser de cette journée, elle prend une douche...', 'US'),
 (548, 'Rashômon', 1950, 5026, 'Crime', 'Kyoto, au XIe siècle. Sous le portique d\'un vieux temple en ruines, Rashômon, trois hommes s\'abritent de la pluie. Les guerres et les famines font rage. Pourtant un jeune moine et un vieux bûcheron sont plus terrifiés encore par le procès auquel ils viennent d\'assister. Ils sont si troublés qu\'ils vont obliger le troisième voyageur à écouter le récit de ce procès : celui d\'un célèbre bandit accusé d\'avoir violé une jeune femme et tué son mari, un samouraï. Le drame a eu lieu dans la forêt à l\'orée de laquelle est situé le portique de Rashômon. L\'histoire est simple : Qui a tué le mari ? Le bandit Tajomaru, la femme, un bûcheron qui passait ou le mari lui-même qui se serait suicidé ? Autant d\'hypothèses vraisemblables. Mais les dépositions des témoins devant le tribunal apportent à chaque fois une version différente du drame, et la vérité ne percera qu\'après de nouvelles révélations surprenantes...', 'JP'),
 (550, 'Fight Club', 1999, 7467, 'Drame', 'Le narrateur, sans identité précise, vit seul, travaille seul, dort seul, mange seul ses plateaux-repas pour une personne comme beaucoup d’autres personnes seules qui connaissent la misère humaine, morale et sexuelle. C’est pourquoi il va devenir membre du Fight club, un lieu clandestin où il va pouvoir retrouver sa virilité, l’échange et la communication. Ce club est dirigé par Tyler Durden, une sorte d’anarchiste entre gourou et philosophe qui prêche l’amour de son prochain.', 'DE'),
 (557, 'Spider-Man', 2002, 7623, 'Fantastique', 'Orphelin, Peter Parker est élevé par sa tante May et son oncle Ben dans le quartier Queens de New York. Tout en poursuivant ses études de biophysique à l\'université, il trouve un emploi de photographe au journal Daily Bugle. Cependant, après avoir été mordu par une araignée radioactive, ce dernier est sujet à des transformations physiques : son agilité et sa force se sont accrues, et il se voit doter de pouvoirs surnaturels. Peter décide alors de participer à un combat de catch qu\'il remporte avec une facilité déconcertante. Mais l\'organisateur du spectacle, décrétant qu\'il y a eu tricherie, refuse de lui remettre le prix de 3 000 dollars qui lui revient de droit. Au même moment, l\'homme d\'affaires mégalomane Norman Osborn expérimente sur lui-même de dangereuses solutions chimiques. Des mutations s\'opèrent bientôt sur son corps et son esprit. Il se transforme alors en Bouffon Vert.', 'US'),
@@ -1459,20 +1459,20 @@ INSERT INTO `Pays` (`code`, `nom`, `langue`) VALUES
 -- --------------------------------------------------------
 
 --
--- Structure de la table `Rôle`
+-- Structure de la table `Role`
 --
 
-CREATE TABLE `Rôle` (
+CREATE TABLE `Role` (
   `idFilm` int(11) NOT NULL,
   `idActeur` int(11) NOT NULL,
-  `nomRôle` varchar(255) DEFAULT NULL
+  `nomRole` varchar(255) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
--- Contenu de la table `Rôle`
+-- Contenu de la table `Role`
 --
 
-INSERT INTO `Rôle` (`idFilm`, `idActeur`, `nomRôle`) VALUES
+INSERT INTO `Role` (`idFilm`, `idActeur`, `nomRole`) VALUES
 (11, 2, 'Luke Skywalker'),
 (1891, 2, 'Luke Skywalker'),
 (1892, 2, 'Luke Skywalker'),
@@ -2853,9 +2853,9 @@ ALTER TABLE `Pays`
   ADD PRIMARY KEY (`code`);
 
 --
--- Index pour la table `Rôle`
+-- Index pour la table `Role`
 --
-ALTER TABLE `Rôle`
+ALTER TABLE `Role`
   ADD PRIMARY KEY (`idActeur`,`idFilm`),
   ADD KEY `idFilm` (`idFilm`);
 
@@ -2877,11 +2877,11 @@ ALTER TABLE `Internaute`
   ADD CONSTRAINT `internaute_ibfk_1` FOREIGN KEY (`codePays`) REFERENCES `Pays` (`code`);
 
 --
--- Contraintes pour la table `Rôle`
+-- Contraintes pour la table `Role`
 --
-ALTER TABLE `Rôle`
-  ADD CONSTRAINT `rôle_ibfk_1` FOREIGN KEY (`idFilm`) REFERENCES `Film` (`idFilm`),
-  ADD CONSTRAINT `rôle_ibfk_2` FOREIGN KEY (`idActeur`) REFERENCES `Artiste` (`idArtiste`);
+ALTER TABLE `Role`
+  ADD CONSTRAINT `role_ibfk_1` FOREIGN KEY (`idFilm`) REFERENCES `Film` (`idFilm`),
+  ADD CONSTRAINT `role_ibfk_2` FOREIGN KEY (`idActeur`) REFERENCES `Artiste` (`idArtiste`);
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
